@@ -6,6 +6,9 @@ language model from LLM360.
 > [!NOTE]
 > This repository is under active development. If you have suggestions or find bugs, please open a GitHub issue or reach out.
 
+### Environment
+The simplest way to launch the training should be using our [Docker Image](https://hub.docker.com/layers/zazzyyyy/project-k2/0.2/images/sha256-4c4e75f613163118a9bb27ed808c6f028c558875db9724676fa0ecee7780119e?context=explore). We will provide a more detailed writeup of the environment later.
+
 ### Launch Training
 To launch training, run:
 ```
